@@ -12,7 +12,7 @@ Managing personal finances is crucial for individuals seeking to maintain a heal
 ![image](https://github.com/Sreshta05/Personal-Expenses/assets/76899515/6849d7e9-1c32-415a-b230-c1d4401e2cfe)
 
 
-Key Features
+## Key Features
 
  Data Cleaning: The script preprocesses raw bank transaction data, ensuring consistency and usability for subsequent analysis steps.
 
@@ -26,7 +26,7 @@ Key Features
 
  
 
-Why Use This Project?
+## Why Use This Project?
 
  Financial Awareness: By visualizing their expenses, users can gain a better understanding of where their money is being spent, enabling them to make more informed financial decisions.
  
@@ -36,7 +36,7 @@ Why Use This Project?
 
 
 
-How to Use
+## How to Use
 
  Prepare Your Data: Ensure that your bank transaction data is in CSV format and named bankstatement.csv.
  
