@@ -24,6 +24,8 @@ Key Features
  
  Data Filtering: The script enables users to filter expenses by category and select specific months for detailed analysis, providing flexibility and customization options.
 
+ 
+
 Why Use This Project?
 
  Financial Awareness: By visualizing their expenses, users can gain a better understanding of where their money is being spent, enabling them to make more informed financial decisions.
@@ -31,6 +33,8 @@ Why Use This Project?
  Budgeting Assistance: The project facilitates budgeting by highlighting areas of high expenditure and potential areas for cost-cutting, ultimately helping users achieve their financial goals.
  
  Data-driven Insights: Through interactive visualizations and summaries, users can uncover patterns and trends in their spending behavior, empowering them to make proactive adjustments to their financial habits.
+
+
 
 How to Use
 
