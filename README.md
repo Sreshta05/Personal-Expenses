@@ -14,20 +14,20 @@ Managing personal finances is crucial for individuals seeking to maintain a heal
 
 Key Features
 
-Data Cleaning: The script preprocesses raw bank transaction data, ensuring consistency and usability for subsequent analysis steps.
-Categorization: Transactions are categorized into predefined categories (e.g., rent, food, groceries) based on keywords present in their descriptions.
-Summary Visualization: A comprehensive summary of last month's income, recurring expenses, non-recurring expenses, and savings is presented in an interactive and visually appealing format.
-Expense Analysis: Users can explore their monthly expenses through interactive charts, allowing for deeper insights into spending habits and trends over time.
-Data Filtering: The script enables users to filter expenses by category and select specific months for detailed analysis, providing flexibility and customization options.
+ Data Cleaning: The script preprocesses raw bank transaction data, ensuring consistency and usability for subsequent analysis steps.
+ Categorization: Transactions are categorized into predefined categories (e.g., rent, food, groceries) based on keywords present in their descriptions.
+ Summary Visualization: A comprehensive summary of last month's income, recurring expenses, non-recurring expenses, and savings is presented in an interactive and visually appealing format.
+ Expense Analysis: Users can explore their monthly expenses through interactive charts, allowing for deeper insights into spending habits and trends over time.
+ Data Filtering: The script enables users to filter expenses by category and select specific months for detailed analysis, providing flexibility and customization options.
 
 Why Use This Project?
 
-Financial Awareness: By visualizing their expenses, users can gain a better understanding of where their money is being spent, enabling them to make more informed financial decisions.
-Budgeting Assistance: The project facilitates budgeting by highlighting areas of high expenditure and potential areas for cost-cutting, ultimately helping users achieve their financial goals.
-Data-driven Insights: Through interactive visualizations and summaries, users can uncover patterns and trends in their spending behavior, empowering them to make proactive adjustments to their financial habits.
+ Financial Awareness: By visualizing their expenses, users can gain a better understanding of where their money is being spent, enabling them to make more informed financial decisions.
+ Budgeting Assistance: The project facilitates budgeting by highlighting areas of high expenditure and potential areas for cost-cutting, ultimately helping users achieve their financial goals.
+ Data-driven Insights: Through interactive visualizations and summaries, users can uncover patterns and trends in their spending behavior, empowering them to make proactive adjustments to their financial habits.
 
 How to Use
 
-Prepare Your Data: Ensure that your bank transaction data is in CSV format and named bankstatement.csv.
-Run the Script: Execute the Python script using the provided instructions.
-Explore Your Expenses: Interact with the visualizations to delve into your monthly expenses and gain valuable insights.
+ Prepare Your Data: Ensure that your bank transaction data is in CSV format and named bankstatement.csv.
+ Run the Script: Execute the Python script using the provided instructions.
+ Explore Your Expenses: Interact with the visualizations to delve into your monthly expenses and gain valuable insights.
